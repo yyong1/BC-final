@@ -1,0 +1,17 @@
+{
+  "name": "Kangaroo",
+  "description": "Great Kangaroo in web3.",
+  "image": "ipfs://QmWuQaS41PiSsAEEHNCA3a7Mx1g192gyo6hGc3JqVhMg8o",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Animal"
+    },
+    {
+      "trait_type": "Power",
+      "value": "100"
+    }
+  ]
+}
+
+// QmVZHFakYCaoJwVuJSNHe1tseEFTwEbjyBHjSYogyUTPhC
